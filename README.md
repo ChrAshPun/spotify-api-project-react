@@ -5,4 +5,4 @@ See the website: https://chrashpun.github.io/spotify-api-project-react/
 
 See the code: https://github.com/ChrAshPun/spotify-api-project-react-code
 
-How to set up github page: https://github.com/gitname/react-gh-pages
+How to set up a github page: https://github.com/gitname/react-gh-pages
